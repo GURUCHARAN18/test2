@@ -1,0 +1,127 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-image: url(plants.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: floralwhite;
+}
+.top{
+    position: relative;
+    top: 50px;
+    /* background-color: #00bcd4; */
+    height: 500px;
+}
+.mid{
+    margin: 0;
+    height: 569px;
+    
+   background-color: white;
+}
+.h{
+    margin-top: 0px;
+}
+.i{
+    position: relative;
+top: 30px;
+}
+.w{
+    position: relative;
+    top: 30px;
+}
+.e{
+    position: relative;
+    top: 60px;
+}
+.b{
+    position: relative;
+    top: 80px;
+right: 30px;
+border: 3px solid white;
+padding: 10px 20px;
+border-radius: 10px;
+    display: inline-block;
+}
+.s{
+    border: 3px solid white;
+    position: relative;
+    top: 80px;
+    left: 30px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.location{
+    position: relative;
+    top: 100px;
+    right: 165px;
+     height: 120px; 
+    width: 120px;
+}
+.team{
+    position: relative;
+    top: 110px;
+left: 50px;
+height: 120px;
+width: 120px;
+}
+.feed{
+    top: 100px;
+    position: relative;
+    left: 320px;
+    height: 120px;
+    width: 120px;
+}
+
+.query{
+    top: 100px;
+    position: relative;
+     left: 590px; 
+    height: 120px;
+    width: 120px;
+}
+.x{
+    color: black;
+    position: relative;
+    top: 130px;
+    right: 658px;
+    display: inline-block;
+}
+.y{
+    color: black;
+    position: relative;
+    top: 130px;
+    right: 417px;
+    display: inline-block;
+}
+.z{
+    color: black;
+    position: relative;
+    top: 130px;
+    right: 130px;
+    display: inline-block;
+}
+.g{ color: black;
+    position: relative;
+    top: 130px;
+    left: 114px;
+    display: inline-block;
+}
+.hr{
+    /* margin-bottom: 70px; */
+     border-style: dotted none none;
+    border-width: 10px;
+    color: black;
+    height: 0;
+    width: 10%;
+    position: relative;
+    top: 200px;
+}
+.hello{
+    color: black;
+    position: relative; 
+    top: 260px;
+     left: 1000px; 
+     height: 20px;
+     width: 300px;
+}
